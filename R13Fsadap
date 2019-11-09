@@ -30,7 +30,7 @@ echo $blue "|| $green 0. Exit Sadap WhatsApp         $blue ||"
 echo $blue "================================================="
 echo $blue"╭──[Masukkan Pilihan Anda]>"
 read -p"╰───────root@User C=•>" User C;
-if [ $User C = 1 ] || [ $User C = 01 ]
+if [ $User C = 1 ] || [ $User C = 1 ]
 then
 echo $blue"╭──[Silahkan Masukan Nomernya]>"
 read -p"╰───────root@User C=•>" User C;
@@ -62,7 +62,7 @@ sleep 4
 echo  $blue "Nomer WhatsApp Berhasil Di Sadap $Verifikasi"fi
 fi
 
-if [ $User C = 2 ] || [ $User C = 02 ]
+if [ $User C = 2 ] || [ $User C = 2 ]
 then
 echo $blue"╭──[Silahkan Masukan Nomernya]>"
 read -p"╰───────root@User C=•>" User C;
@@ -94,7 +94,7 @@ sleep 3
 echo  $blue "Nomer WhatsApp Berhasil Di Sadap $Verifikasi"
 fi
 
-if [ $User C = 3 ] || [ $User C = 03 ]
+if [ $User C = 3 ] || [ $User C = 3 ]
 then
 echo $blue"╭──[Silahkan Masukan Nomernya]>"
 read -p"╰───────root@user C=•>" User C;
@@ -126,7 +126,7 @@ sleep 9
 echo  $blue "Nomer WhatsApp Berhasil Di Sadap $Nomer $Kode Verifikasi"
 fi
 
-if [ $User C = 4 ] || [ $User C = 04 ]
+if [ $User C = 4 ] || [ $User C = 4 ]
 then
 echo $blue"╭──[Silahkan Masukan Nomernya]>"
 read -p"╰───────root@User C=•>" User C;
@@ -158,7 +158,7 @@ sleep 4
 echo  $blue "Nomer WhatsApp Berhasil Di Sadap $Nomer $Kode Verifikasi"
 fi
 
-if [ $User C = 0 ] || [ $User C = 00 ]
+if [ $User C = 0 ] || [ $User C = 0 ]
 then
 echo  $red "Bye Bye stahh ku"
 echo  $blue "Jangan Lupa subscribe newbie tutorial Kalo Bisa!"
